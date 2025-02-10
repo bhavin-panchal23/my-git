@@ -1,4 +1,3 @@
-Hello World
-add to repo
-msg1
-changes form remote repo
+hello
+good morning
+commit from remote repo
