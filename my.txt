@@ -2,5 +2,9 @@ hello
 good morning
 bhavin
 commit from local repo
+<<<<<<< HEAD
 commit from Github
 bhavin panchal
+=======
+commit from github
+>>>>>>> refs/remotes/origin/master
